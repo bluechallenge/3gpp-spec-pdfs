@@ -2,6 +2,8 @@
 
 Get any 3GPP spec as a clean, searchable PDF with a working table of contents and bookmarks, without converting Word files yourself.
 
+**[Read the illustrated guide →](https://claude.ai/artifact/Xs4QKGTixuvAB1W6fM12d2)** (diagrams of the ETSI numbering and the fetch flow, and the converter comparison side by side)
+
 ## The trick: ETSI already publishes the PDF
 
 3GPP posts its specs as zipped Word files. ETSI, one of the 3GPP partners, republishes every spec as an official PDF made from that same Word file, under a number you can work out. Put a `1` in front:
